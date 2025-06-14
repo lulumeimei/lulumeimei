@@ -1,61 +1,64 @@
-# Hello there 👋, I'm Choon Yap
+# Hello there 👋, I'm Choon Yap Pui
 
-<img width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d58c9a1-99a9-4dde-aa04-5ac74760601f/d5zrwmv-47da9b2f-28d4-4c8e-8ebf-92cb6362a859.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkNThjOWExLTk5YTktNGRkZS1hYTA0LTVhYzc0NzYwNjAxZlwvZDV6cndtdi00N2RhOWIyZi0yOGQ0LTRjOGUtOGViZi05MmNiNjM2MmE4NTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t9Z8QPeLDxqNW7wPZHH5gJORdXSYhrprl8TDuIBnQ7s" alt="banner">
+<div align="center">
 
-## <img src="https://media.giphy.com/media/IjDUNvOuKrxkX73tE6/giphy.gif" width="40px"> I am a
-👨‍💻 Flutter Developer [@SleekFlow](https://sleekflow.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+System+Tinkerer;IoT+%7C+Cloud+%7C+Automation+Builder;Loves+Data+Pipelines+%26+Low-level+Control;Always+Learning+%7C+Always+Shipping)](https://git.io/typing-svg)
 
-🏫 MSCS Student [@WJU](https://jessup.edu/)
+</div>
 
+---
 
-## <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="40px"> Languges & Tools
-<a href="https://flutter.dev/"><img height="30" src="https://cdn.svgporn.com/logos/flutter.svg"></a>
-<a href="https://dart.dev/"><img height="30" src="https://cdn.svgporn.com/logos/dart.svg"></a>
-<a href="https://www.android.com/"><img height="30" src="https://cdn.svgporn.com/logos/android-icon.svg"></a>
-<a href="https://developer.apple.com/xcode/"><img height="30" src="https://cdn.svgporn.com/logos/xcode.svg"></a>
-<a href="https://maestro.mobile.dev/"><img height="30" src="https://559345148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fn5KVIOjVkVjYRyVWZ0yT%2Ficon%2FiWOlXXbwVTJ9BL1NdnUu%2Ficon-w-bg.svg?alt=media&token=db2884aa-e09e-4296-b8c7-ac8f1c709343"></a>
-<a href="https://vercel.com/solutions/nextjs?utm_source=google&utm_medium=cpc&utm_campaign=16369030002&utm_campaign_id=16369030002&utm_term=nextjs&utm_content=139376545808_665293501437&gad_source=1&gclid=CjwKCAiA9ourBhAVEiwA3L5RFi2mf2jm6p8h6tRvqmKi04Us-56SIyVapRmV4F82qfduiNzgJMXlmxoCp3YQAvD_BwE"><img height="30" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"></code>
-<a href="https://www.javascript.com/"><img height="30" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
-<a href="https://www.typescriptlang.org/"><img height="30" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a>
-<a href="https://www.figma.com/"><img height="30" src="https://cdn.svgporn.com/logos/figma.svg"></a>
-<a href="https://helpx.adobe.com/support/xd.html"><img height="30" src="https://cdn.svgporn.com/logos/adobe-xd.svg"></a>
-<a href="https://stripe.com/"><img height="30" src="https://cdn.svgporn.com/logos/stripe.svg"></a>
-<a href="https://www.python.org/"><img height="30" src="https://cdn.svgporn.com/logos/python.svg"></code>
-<a href="https://www.tensorflow.org/"><img height="30" src="https://cdn.svgporn.com/logos/tensorflow.svg"></a>
-<a href="https://www.mongodb.com/"><img height="30" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"></a>
-<a href="https://aws.amazon.com/"><img height="30" src="https://cdn.svgporn.com/logos/aws.svg"></a>
+## 🧠 About Me
 
-## <img src="https://media.giphy.com/media/aN9GqoR7OD3nq/giphy.gif" width="40px"> Projects Completed
-* Food Delivery App (Rider & User & Vendor)
-* POS System for Restaurant
-* Inventory Management System
-* Real-time Defect Detection with Computer Vision
+Hi! I'm **CY**, a passionate software engineer who thrives on solving real-world problems with technology. I enjoy designing systems that combine software, hardware, and data — whether that’s orchestrating sensors in a building, creating intelligent automation, or building tools that make things just _work_.
 
+I believe in shipping early, learning fast, and staying curious. My journey spans across frontend interfaces, backend APIs, control systems, and AI pipelines. I get especially excited about low-latency data, clever optimizations, and bringing visibility into complex systems.
 
-## <img src="https://media.giphy.com/media/UIUaD8DbQm2NIFU771/giphy.gif" width="40px"> Connect With Me
+---
+
+## 🛠️ Tools I Reach For
+
 <p>
-<a href="https://www.linkedin.com/in/puichoonyap/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="mailto:puichoonyap97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-## <img src="https://media.giphy.com/media/l2JdTgYZ7VG4EeBVe/giphy.gif" width="40px"> GitHub Status
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulumeimei&layout=compact"><p>
+---
 
+## ☕ Philosophy
 
+> Code should feel smooth, not just work.
 
+I believe in:
 
+- ✨ Simplicity over cleverness
+- 🧩 Systems thinking over isolated features
+- 🚀 Building fast, iterating faster
+- 🧪 Side projects as a lifestyle
 
+---
 
-<!--
-**lulumeimei/lulumeimei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Get in Touch
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puichoonyap/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puichoonyap97@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+_“Good systems are invisible until they fail — I like building the kind you never notice.”_
+
+</div>
